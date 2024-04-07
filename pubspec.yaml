@@ -1,7 +1,7 @@
 name: firebase_analytics_module
 description: "help to use firebase_analytics in june_flow framework"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/firebase_analytics_module
 
 version: 0.0.1+1
 
