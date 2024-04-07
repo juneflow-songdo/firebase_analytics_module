@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 import '../../../../../../main.dart';
 
-@ReadyBeforeRunApp()
+@ReadyBeforeRunApp(index: 1.1001)
 Future<void> readyForFirebaseAnalyticsModule() async {
   FirebaseAnalytics analytics = FirebaseAnalytics.instance;
 }
