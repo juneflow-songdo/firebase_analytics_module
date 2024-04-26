@@ -3,21 +3,21 @@ description: "help to use firebase_analytics in june_flow framework"
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/firebase_analytics_module
 
-version: 0.0.2
+version: 1.0.0
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
 
 dependencies:
-  firebase_analytics: ^10.9.0 #@add
-  firebase_core: ^2.28.0
+  firebase_analytics:  #@add
+  firebase_core:
   flutter:
     sdk: flutter
-  go_router: ^13.2.2
-  june_flow_util: ^0.8.19
+  go_router:
+  june_flow_util:
 
 dev_dependencies:
-  firebase_core_module: ^0.0.1+1 #@add
+  firebase_core_module: #@add
   flutter_test:
     sdk: flutter
 
